@@ -1,0 +1,24 @@
+{
+  "name": "redux-jwt-auth",
+  "version": "0.0.2",
+  "description": "Authentication library powered by Redux & JWT",
+  "main": "index.js",
+  "author": "Gwendall Esnault <gwendall.esnault@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/gwendall/redux-auth",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gwendall/redux-auth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gwendall/redux-auth/issues"
+  },
+  "tags": ["redux", "auth"],
+  "keywords": ["redux", "auth"],
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "react-redux": "^5.0.6",
+    "jwt-decode": "^2.2.0"
+  },
+  "scripts": {}
+}
